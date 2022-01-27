@@ -46,3 +46,24 @@ p{
   margin: 20px 0;
   padding: 0 35px 0 35px;
 }
+
+@media (max-width: 425px){
+  div {
+    width: 270px;
+    height: 420px;
+  }
+  
+  img{
+    width: 240px;
+  }
+  
+  h1{
+    font-size: 20px;
+    margin: 5px 15px;
+  }
+  
+  p{
+    font-size: 13px;
+    margin: 10px 0;
+  }
+}
