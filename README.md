@@ -1,2 +1,3 @@
-![Desktop](img/readme.svg)
-![Desktop](img/acessar.svg)
+
+[![readme](img/readme.svg)](https://github.com/rafaelvieiracosta)
+[![link](img/acessar.svg)](https://qrcode-component.vercel.app/)
