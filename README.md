@@ -1,2 +1,2 @@
-# qrcode-component
- Componente simples de QRCode
+![Desktop](img/readme.svg)
+![Desktop](img/acessar.svg)
